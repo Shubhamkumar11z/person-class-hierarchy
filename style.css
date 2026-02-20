@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom right, #eef2f7, #d9e2ec);
+  text-align: center;
+}
+
+h1 {
+  margin-top: 40px;
+  font-size: 48px;
+  color: #1f2937;
+}
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  margin: 30px auto;
+}
+
+.card {
+  background: white;
+  padding: 25px;
+  margin: 20px 0;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  text-align: left;
+}
+
+.card h2 {
+  margin: 0 0 10px 0;
+}
+
+.card p {
+  margin: 5px 0;
+  font-size: 18px;
+}
+
+.italic {
+  font-style: italic;
+  color: #555;
+  margin-top: 15px;
+}
